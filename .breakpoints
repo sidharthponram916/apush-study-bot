@@ -1,0 +1,18 @@
+{
+  "files": {
+    "commands/blitz.js": [
+      {
+        "id": "e3509e5c-001f-4f9f-a938-2dd15fb468af",
+        "line": 1,
+        "version": 1113,
+        "index": 0
+      },
+      {
+        "id": "fefd2279-7cb3-4dd3-95af-c77b4e8c2260",
+        "line": 9,
+        "version": 1865,
+        "index": 271
+      }
+    ]
+  }
+}
