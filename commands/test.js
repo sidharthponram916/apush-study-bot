@@ -2,6 +2,7 @@ const Profile = require('../models/Profile.js');
 const axios = require('axios');
 const { MessageEmbed } = require('discord.js');
 
+// Module 
 module.exports = {
     name: "test",
     async execute(message, args) {
