@@ -1,4 +1,4 @@
-# Apush Study Bot Documentation 
+# Study Bot Docs 
 APUSH Study Bot is a Discord bot that helps students prepare for various topics that align with College Board's AP United States History course. The bot has a pool of over 100 questions and counting and provides great practice for important topics on the exam. 
 
 # Technologies 
